@@ -30,10 +30,13 @@ const Car = () => {
 
 
             <div className="cart-container">
+                <h1>Selected Cars </h1>
                 {
                     cart.map(item => (<h1 key={item.id}>{item.name}</h1>))
                 }
 
+                <button>Choose 1 for me </button>
+                <button>Choose again </button>
             </div>
         </div>
     );
