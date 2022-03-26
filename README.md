@@ -2,5 +2,5 @@
 
 
 
-## Live Link : (https://upsetcarpatron.netlify.app/).
+## Live Link : https://upsetcarpatron.netlify.app/
 
