@@ -2,10 +2,15 @@ import React from 'react';
 import './Card.css'
 import { BsCart4 } from "react-icons/bs"
 const Card = ({ data }) => {
-    console.log(data)
+    // console.log(data)
 
     const { name, picture, price, id } = data
-    console.log(data)
+    // console.log(data)
+
+    const handleAddToCart = (id) => {
+        console.log(id)
+    }
+
     return (
         <div >
             <div className="product-container">
@@ -14,7 +19,7 @@ const Card = ({ data }) => {
                 <h4>Price: ${price}</h4>
                 <p>Id : {id}</p>
 
-                <button>
+                <button onClick={() => handleAddToCart(id)}>
                     <BsCart4 />
                 </button>
             </div>

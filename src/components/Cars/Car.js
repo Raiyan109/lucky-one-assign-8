@@ -4,7 +4,7 @@ import './Car.css'
 const Car = () => {
 
     const [cars, setCars] = useState([])
-
+    const [cart, setCart] = useState([])
     useEffect(() => {
         fetch('data.json')
             .then(res => res.json())

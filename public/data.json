@@ -2,55 +2,55 @@
     {
         "id": "623e61e863f6f57657235f17",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 252,
-        "name": "Tonia Wynn"
+        "price": 37495,
+        "name": "Toyota"
     },
     {
         "id": "623e61e85f9ace9f3450f0ad",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 34,
-        "name": "Wilson Mitchell"
+        "price": 43995,
+        "name": "Bentley Bentayga"
     },
     {
         "id": "623e61e8e48d17a0120b74c8",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 193,
-        "name": "Alba Jordan"
+        "price": 48300,
+        "name": "Rolls-Royce"
     },
     {
         "id": "623e61e841c9f2cad06ed576",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 173,
-        "name": "Langley Munoz"
+        "price": 64800,
+        "name": "BMW 7 Series"
     },
     {
         "id": "623e61e87f807a79491514f1",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 318,
-        "name": "Marquez Fry"
+        "price": 37850,
+        "name": "Audi A8"
     },
     {
         "id": "623e61e82d7c4fe3c904ce6e",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 54,
-        "name": "Ana Haley"
+        "price": 37750,
+        "name": "Range Rover"
     },
     {
         "id": "623e61e8723d6fec10ae3ebf",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 369,
-        "name": "Clarke Singleton"
+        "price": 37500,
+        "name": "Mercedes-Benz"
     },
     {
         "id": "623e61e879b1aac3f4543fc6",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 253,
-        "name": "Lucy Carey"
+        "price": 37850,
+        "name": "Hennessey Venom GT"
     },
     {
         "id": "623e61e8b05904abbe029bf4",
         "picture": "https://images.pexels.com/photos/1149137/pexels-photo-1149137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "price": 436,
-        "name": "Ola Avery"
+        "price": 37850,
+        "name": "SSC Tuatara"
     }
 ]
