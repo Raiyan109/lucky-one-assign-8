@@ -8,7 +8,7 @@ const Car = () => {
     console.log(cart)
 
     const handleAddToCart = (car) => {
-        const newCart = [car]
+        const newCart = [...cart, car]
         setCart(newCart)
         // setCart(car)
     }
