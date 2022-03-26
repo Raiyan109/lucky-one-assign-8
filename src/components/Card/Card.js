@@ -15,7 +15,7 @@ const Card = ({ data, handleAddToCart }) => {
                 <img src={picture} alt="" />
                 <h1>Name: {name}</h1>
                 <h4>Price: ${price}</h4>
-                <p>Id : {id}</p>
+
 
                 <button onClick={() => handleAddToCart(data)}>
                     <BsCart4 />
