@@ -5,12 +5,11 @@ const Car = () => {
 
     const [cars, setCars] = useState([])
     const [cart, setCart] = useState([])
-    console.log(cart)
-    const [randoms, setRandoms] = useState([])
-    console.log(randoms)
+    // console.log(cart)
 
-    const rndInt = Math.floor(Math.random() * 6) + 1
-    console.log(rndInt)
+
+
+
 
     const handleAddToCart = (car) => {
         const newCart = [...cart, car]
@@ -18,13 +17,13 @@ const Car = () => {
         // setCart(car)
     }
 
-    const handleRandomNumber =
 
-        useEffect(() => {
-            fetch('data.json')
-                .then(res => res.json())
-                .then(data => setCars(data))
-        }, [])
+
+    useEffect(() => {
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => setCars(data))
+    }, [])
 
     return (
         <div className='container'>
@@ -42,8 +41,7 @@ const Car = () => {
                     cart.map(item => (<h1 key={item.id}>{item.name}</h1>))
                 }
 
-                <button onClick={() => handleRandomNumber()}>Choose 1 for me </button>
-                <button>Choose again </button>
+
             </div>
         </div>
     );

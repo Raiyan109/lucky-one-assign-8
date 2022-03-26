@@ -10,3 +10,17 @@
     height: 50%;
 
 }
+.product-container button{
+    position: relative;
+    width: 70%;
+    height: 40px;
+    border: none;
+    outline: unset;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.product-container button:hover{
+    background-color: #E8A87C;
+    font-weight: bold;
+}
