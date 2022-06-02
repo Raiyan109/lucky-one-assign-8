@@ -38,6 +38,7 @@ const Car = (num, handleRandomNumber) => {
                 <h1>Selected Cars </h1>
                 {
                     cart.map(item => (<h1 key={item.id}>{item.name}</h1>))
+
                 }
                 <div>
                     <button onClick={() => handleRandomNumber(num)}>Choose 1 for me </button>
